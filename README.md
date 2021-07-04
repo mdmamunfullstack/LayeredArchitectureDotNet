@@ -1,6 +1,8 @@
 # Building a Layered Architecture with .NET #
 
-In this repository a simple Layered Architecture for a .NET application will be designed and takes a look at the following aspects:
+In this repository a simple Layered Architecture for a .NET application will be designed. 
+
+It takes a look at the following aspects:
 
 * Data Access
 * Multi-Tenancy
